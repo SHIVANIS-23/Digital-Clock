@@ -47,5 +47,6 @@ h2{
 .clock{
   font-size: 90px;
   font-family: 'digital-7';
+  text-shadow: 0 0 7px #ff0000, 0 0 12px #ff0000, 0 0 17px #ff0000;
 }
 
